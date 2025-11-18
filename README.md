@@ -25,9 +25,9 @@ I'm a software engineer passionate about building clean, scalable systems and so
 ## 🔧 Tech Stack
 
 **Languages:** C#, JavaScript/TypeScript, Python, SQL  
-**Frontend:** React, Bootstrap, Tailwind, jQuery
-**Backend:** ASP.NET, Supabase
-**Databases:** SQL Server, MySQL
+**Frontend:** React, Bootstrap, Tailwind, jQuery  
+**Backend:** ASP.NET, Supabase  
+**Databases:** SQL Server, MySQL  
 **Tools:** Git, VS Code, GitHub Actions
 
 ---
